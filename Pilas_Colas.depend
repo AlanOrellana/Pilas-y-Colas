@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1400298205 source:c:\users\paco01800\desktop\codigo\prog\pilas_colas\main.cpp
+	<iostream>
+	"Pila.h"
+
+1400297193 source:c:\users\paco01800\desktop\codigo\prog\pilas_colas\src\pila.cpp
+	"Pila.h"
+
+1400297554 c:\users\paco01800\desktop\codigo\prog\pilas_colas\include\pila.h
+	<iostream>
+
+1400328332 source:c:\users\paco01800\desktop\codigo\prog\pilas_colas\src\cola.cpp
+	"Cola.h"
+
+1400328319 c:\users\paco01800\desktop\codigo\prog\pilas_colas\include\cola.h
+	<iostream>
+
